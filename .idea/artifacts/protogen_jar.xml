@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="protogen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/protogen_jar</output-path>
+    <root id="archive" name="protogen.jar">
+      <element id="module-output" name="protogen" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.78/jcommander-1.78.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
